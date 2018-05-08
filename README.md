@@ -1,2 +1,2 @@
 # fundamentos_html
-curso html
+curso html en NextU
